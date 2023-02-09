@@ -16,7 +16,7 @@ public class FirstProject {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("How r u!");
-        System.out.println(Bro its been a day!");
+        System.out.println("Bro its been a day!");
     }
     
 }
